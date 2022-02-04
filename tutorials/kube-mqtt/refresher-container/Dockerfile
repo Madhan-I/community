@@ -1,4 +1,4 @@
-FROM python:3.10.0b4
+FROM python:3.11-rc-slim
 RUN mkdir /install
 WORKDIR /install
 COPY requirements.txt /requirements.txt
