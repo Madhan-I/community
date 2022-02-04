@@ -5,8 +5,8 @@
     "prestart": "npm run bundle"
   },
   "dependencies": {
-    "express": "4.16.0",
-    "pug": "3.0.1",
-    "webpack": "3.11.0"
+    "express": "4.14.1",
+    "pug": "2.0.0-beta11",
+    "webpack": "4.26.0"
   }
 }
