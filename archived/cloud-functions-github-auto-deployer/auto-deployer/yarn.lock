@@ -370,9 +370,10 @@ dot-prop@^4.1.0:
   dependencies:
     is-obj "^1.0.0"
 
-download-git-repo@1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/download-git-repo/-/download-git-repo-1.0.1.tgz#d62b07abe829431e9fec90d5543597664228f305"
+download-git-repo@1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/download-git-repo/-/download-git-repo-1.1.0.tgz#7dc88a82ced064b1372a0002f8a3aebf10eb1d3c"
+  integrity sha512-yXcCvhkPKmq5M2cQXss6Qbig+LZnzRIT40XCYm/QCRnJaPG867StB1qnsBLxOGrPH1YEIRWW2gJq7LLMyw+NmA==
   dependencies:
     download "^5.0.3"
     git-clone "^0.1.0"
