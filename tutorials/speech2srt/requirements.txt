@@ -1,3 +1,4 @@
 google-cloud-speech>=1.2.0
 google-cloud-translate>=2.0.0
 srt>=3.0.0
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
